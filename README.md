@@ -5,3 +5,8 @@ Enterprise Level UML Diagram Examples
 - Activity Diagram
 - Deployment Diagram
 - Use Case Diagram
+
+
+-------------
+References
+- Software Architecture for the Enterprise Architect Training by Binary Brain

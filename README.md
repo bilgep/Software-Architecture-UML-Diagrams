@@ -4,4 +4,4 @@ Enterprise Level UML Diagram Examples
 - Class Diagram
 - Activity Diagram
 - Deployment Diagram
-- Usa Case Diagram
+- Use Case Diagram
